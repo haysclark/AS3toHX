@@ -39,3 +39,6 @@ as3tohx -h
 ## Notes
 
 Including experimental AS3 to JavaScript converter
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/haysclark/as3tohx/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
